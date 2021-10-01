@@ -1,0 +1,1 @@
+((([Gear] = 1)or([Gear] = 'N'))&([JoystickPlugin.Thrustmaster_T300RS_Racing_Wheel_Slider0] != 65535)&([SpeedKmh] < 50))
