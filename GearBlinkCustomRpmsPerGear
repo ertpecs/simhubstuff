@@ -1,0 +1,1 @@
+([Gear] = 1&[Rpms] > 6150)or([Gear] = 2&[Rpms] > 7450)or([Gear] = 3&[Rpms] > 8150)or([Gear] = 4&[Rpms] > 8300)or([Gear] = 5&[Rpms] > 8400)
