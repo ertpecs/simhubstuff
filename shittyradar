@@ -1,0 +1,7 @@
+(([PersistantTrackerPlugin.DriverBehind_00_Distance] != 0)&([PersistantTrackerPlugin.DriverBehind_00_Distance] < 10))
+
+visible binding 
+
+[PersistantTrackerPlugin.DriverBehind_00_Distance]
+
+text binding
